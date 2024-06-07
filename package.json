@@ -1,0 +1,23 @@
+{
+  "name": "electron-study",
+  "version": "1.0.0",
+  "description": "Tutorial Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Santos-Da-Silva/Electron-Study.git"
+  },
+  "author": "Lucas Santos da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lucas-Santos-Da-Silva/Electron-Study/issues"
+  },
+  "homepage": "https://github.com/Lucas-Santos-Da-Silva/Electron-Study#readme",
+  "devDependencies": {
+    "electron": "^30.1.0"
+  }
+}
